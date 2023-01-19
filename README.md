@@ -12,4 +12,4 @@ Didalam Folder "Fisrt Project" ini beberapa step yang diminta oleh tutorialnya, 
 8. The Supervisor
 9. Using ROS
 
-DIdalam Folder "Micromouse" terdapat codingan yang diperlukan untuk menjalankan robotnya dan Technical Documentation
+DIdalam Folder "Micromouse" terdapat codingan yang diperlukan untuk menjalankan robotnya dan Technical Documentation berada di luarnya
